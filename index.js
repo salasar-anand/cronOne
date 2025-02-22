@@ -6,7 +6,7 @@ const app = express();
 const PORT = 3000;
 
 // Replace with your target URLs
-const URLS = ["https://crontwo.onrender.com,"https://reacttemplate-nnqt.onrender.com/"];
+const URLS = ["https://crontwo.onrender.com,https://reacttemplate-nnqt.onrender.com"];
 
 let logs = []; // Store logs
 
