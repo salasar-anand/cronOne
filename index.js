@@ -8,7 +8,8 @@ const PORT = 3000;
 // Replace with your target URLs
 const URLS = [
   "https://crontwo.onrender.com",
-  "https://jb-atgy.onrender.com"
+  "https://jb-atgy.onrender.com",
+  "https://propertyselling.onrender.com"
 ];
 
 let logs = []; // Store logs
