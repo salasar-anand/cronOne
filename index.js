@@ -9,7 +9,8 @@ const PORT = 3000;
 const URLS = [
   "https://crontwo.onrender.com",
   "https://jb-atgy.onrender.com",
-  "https://propertyselling.onrender.com"
+  "https://propertyselling.onrender.com",
+  "https://adminout.onrender.com"
 ];
 
 let logs = []; // Store logs
